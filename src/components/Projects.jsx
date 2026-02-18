@@ -62,7 +62,7 @@ export default function Projects() {
               </a>
 
               <a
-                href="#"
+                href="https://github.com/PrachiHivarkar/Portfolio_website.git"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="px-4 py-2 border border-cyan-500 text-cyan-400 hover:bg-cyan-500 hover:text-white rounded-lg transition"
